@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: shakdaniel/gatsby-netlify-cms
+  branch: master
